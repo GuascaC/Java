@@ -3,7 +3,7 @@ public class Basic {
         int sum = 0;
         for (int c = 1; c <= 10; c++){
         sum += c;
+              System.out.println("Iteración: " + sum + "."); 
     }
-      System.out.println("Sum, " + sum); 
     }
 }
