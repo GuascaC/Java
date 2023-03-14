@@ -10,3 +10,11 @@ public class Cristian {
       System.out.println("Hello,Cristian"); //"Print"
     }
 }
+
+public class name { 
+    public static void main(String args[]) { 
+        String name = "Cristian";
+      System.out.println("Hello, " + name); 
+    }
+}
+
