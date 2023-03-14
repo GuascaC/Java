@@ -5,6 +5,6 @@ public /*"Miembro"*/ class Hello { //Function name
 }
 public class Cristian { 
     public static void main(String args[]) { //Publico, estatico, sin retorno
-      System.out.println("Hello World"); 
+      System.out.println("Hello Cristian"); //"Print"
     }
 }
