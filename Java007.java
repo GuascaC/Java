@@ -8,7 +8,7 @@ public class Main {
     double mult = myInt*myInt2;
     double div = myInt/myInt2;
     double mod = myInt%myInt2;
-    System.out.println("Suma:" + sum);  
+    System.out.println("Suma:" + sum);  //Sin ln = Sin salto de línea
     System.out.println("resta: " + res);  
     System.out.println("Multiplicación: "+ mult);  
     System.out.println("División: " + div);  
