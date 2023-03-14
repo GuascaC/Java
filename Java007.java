@@ -1,3 +1,4 @@
+
 public class Main {
   public static void main(String[] args) {
     double myInt = 9;
@@ -6,13 +7,12 @@ public class Main {
     double res = myInt-myInt2;
     double mult = myInt*myInt2;
     double div = myInt/myInt2;
-    double div2 = myInt/myInt2;
     double mod = myInt%myInt2;
-    System.out.println(sum);  
-    System.out.println(res);  
-    System.out.println(mult);  
-    System.out.println(div);  
-    System.out.println(div2);  
-    System.out.println(mod);  
+    System.out.println("Suma:" + sum);  
+    System.out.println("resta: " + res);  
+    System.out.println("Multiplicación: "+ mult);  
+    System.out.println("División: " + div);  
+    System.out.println("Residuo: " + mod);  
   }
 }
+
